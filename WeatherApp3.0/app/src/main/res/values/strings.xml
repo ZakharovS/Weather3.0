@@ -1,0 +1,9 @@
+<resources>
+
+    <!-- TITLE APP-->
+    <string name="app_name">WeatherApp3.0</string>
+
+    <!-- ALERT DIALOG -->
+    <string name="offline_mode">Offline Mode</string>
+
+</resources>
